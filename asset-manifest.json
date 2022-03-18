@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/poke-mem-game/static/js/main.08290d4a.js",
+    "static/media/logo.png": "/poke-mem-game/static/media/logo.52c29c33c90db3abe881.png",
+    "index.html": "/poke-mem-game/index.html",
+    "main.08290d4a.js.map": "/poke-mem-game/static/js/main.08290d4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.08290d4a.js"
+  ]
+}
